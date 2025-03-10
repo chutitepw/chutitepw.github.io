@@ -10,8 +10,8 @@ services:
     #   args:
     #     GROUPID: # id -g
     #     GROUPNAME: # id -gn
-    #     USERID: # id -u
-    #     USERNAME: # echo $USER
+    #     USERID:  # id -u
+    #     USERNAME: Both # echo $USER
     ports:
       - 8080:8080
       - 35729:35729

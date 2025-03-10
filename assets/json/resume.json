@@ -1,157 +1,332 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Chutitep Woralert",
+    "label": "Research Associate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "chutitep.woralert@gmail.com",
+    "phone": "(315) 261-2152",
+    "url": "https://chutitepw.github.io/al-folio/",
+    "summary": "Cybersecurity researcher with a focus on malware detection, system security, and machine learning. Experienced in Linux kernel module development, embedded systems, and real-time anomaly detection using low-level hardware information. Seeking opportunities to leverage advanced technologies in cybersecurity and system design.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "NY 13676",
+      "city": "Potsdam",
       "countryCode": "US",
-      "region": "California"
+      "region": "New York"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "ChutitepWoralert",
+        "url": "https://www.linkedin.com/in/chutitep-woralert-746354153"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Clarkson University",
+      "position": "Research Assistant/Research Associate",
+      "location": "NY, USA",
+      "url": "",
+      "startDate": "2019-01-01",
+      "endDate": "Present",
+      "summary": "Research integration of AI for cybersecurity solutions, focusing on anomaly detection in systems using hardware-level information. Additionally, research optimization of Linux kernel data probing techniques for efficient hardware-level data collection",
+      "highlights": ["Designed and developed a real-time malware detection framework in Linux using low-level hardware information with an average accuracy of over 99.91% for ransomware, cryptojacking, and Spectre attack detection.", "Researched new malware threats, conducted in-depth malware analysis to assess risk, and implemented security measures to mitigate threats.", "Created a secure malware lab environment using virtualization and network segregation for malware analysis and testing.", "Deployed machine learning models for anomaly detection, leveraging time series forecasting and image pattern recognition to analyze system information and network traffic in real-time.", "Optimized machine learning models for the application to reduce deployment costs while maintaining high accuracy.", "Developed a lightweight secure communication system using TCP/IP for encrypted data exchange between devices in distributed system design, reducing system performance impact on user system from 8.97% to 0.65%.", "distributed system design, reducing system performance impact on user system from 8.97% to 0.65%.", "Developed Linux kernel module to collect hardware events from hardware registers and other kernel space data for malware analysis and program optimization applications.", "sub-millisecond data collection and reducing system performance overhead by 98.7% (from 3.99% to 0.05%).", "Managed high-performance computing cluster setup, installation, network configuration, access control, and resource allocation, maintained lab devices, provided technical support, and assisted students with troubleshooting."]
+    },
+    {
+      "name": "Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud (HEIG-VD)",
+      "position": "Researcher Internship",
+      "location": "Yverdon-les-Bains, Switzerland",
+      "url": "",
+      "startDate": "2018-04-01",
+      "endDate": "2018-07-01",
+      "summary": "Design and developed CAD software for civil engineer department.",
+      "highlights": ["Designed and developed Man-Machine Interaction (MMI) software for civil engineer structural design using C++.", "Implemented a mapping mechanism for data reprojection between 2D schemas and 3D model geometry coordinates using interpolation techniques, enabling synchronized visualization in both 2D and 3D spaces."]
+    },
+    {
+      "name": "Freelance",
+      "position": "Full Stack Web Developer",
+      "location": "Remote",
+      "url": "",
+      "startDate": "2018-01-01",
+      "endDate": "2018-06-01",
+      "summary": "Designed and developed website for education and cultural exchange program consultant.",
+      "highlights": ["Designed and developed the front end and back end of the website using HTML, CSS, PHP, JavaScript, and SQL.", "Created and maintained a database system, implementing security measures, including input validation and sanitization, to prevent injection attacks."]
+    },
+    {
+      "name": "Assumption University",
+      "location": "Bangkok, Thailand",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2017-01-01",
+      "endDate": "2017-12-01",
+      "summary": "Research framework design for smart home systems incorporating LLM-based speech recognition and biometric security.",
+      "highlights": ["Designed and implemented an IoT speech recognition framework using Raspberry Pi for a smart home system.", "Developed and trained a chatbot AI utilizing Natural Language Processing (NLP) techniques to create a smart voice assistance system, integrating REST APIs such as weather forecast, Google Maps Geocoding, and Google Distance Matrix.", "Implemented a real-time facial recognition system using OpenCV for a smart home surveillance system.", "Designed and developed a database system for managing users and smart home devices.", "Implemented an advanced access control system for the smart home central hub, incorporating facial recognition, voice biometric authentication, and passphrase requirements to enhance security.", "Designed PCB shield for relay switches and Raspberry Pi GPIO connections to automate control of home appliances."]
+    },
+    {
+      "name": "Assumption University",
+      "location": "Bangkok, Thailand",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "2017-12-01",
+      "summary": "",
+      "highlights": ["Microprocessor (2017) | Design and Analysis of Algorithms (2017) | Microprocessor System Design Laboratory (2017) | Electric Circuit Laboratory (2015) | Computer Programming (2015 - 2017)", "Supervised lab and lecture sections, prepared lab equipment, provided lab demonstrations, conducted tutorial sessions, graded homework, quizzes, and lab reports, and proctored quizzes and exams."]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "IEEE-Eta Kappa Nu Honor Society",
+      "location": "NY, USA",
+      "position": "Student Organizer",
+      "url": "",
+      "startDate": "2023-11-01",
+      "endDate": "2024-05-01",
+      "summary": "Designed workshops and facilitated tutoring sessions for students"
+    },
+    {
+      "organization": "Student Council Vincent Mary School of Engineering",
+      "location": "Bangkok, Thailand",
+      "position": "Student Council Member",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "2017-12-01",
+      "summary": "Designed workshops and facilitated tutoring sessions for students, hosted and organized on-campus events, fostering community engagement and academic enrichment.",
+      "highlights": [""]
+    },
+    {
+      "organization": "Campus Emergency Medical Services (EMS)",
+      "location": "Bangkok, Thailand",
+      "position": "Emergency Medical Technician (EMT)",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "2017-12-01",
+      "summary": "Responded to medical emergencies during university events and conducted emergency first aid training for students.",
+      "highlights": [""]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Clarkson University, NY, USA",
+      "location": "NY, USA",
+      "url": "https://www.clarkson.edu/",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2019-01-01",
+      "endDate": "2024-08-01",
+      "score": "3.92/4"
+    },
+    {
+      "institution": "Clarkson University, NY, USA",
+      "location": "NY, USA",
+      "url": "https://www.clarkson.edu/",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "M.S.",
+      "startDate": "2019-01-01",
+      "endDate": "2024-05-01",
+      "score": "3.89/4"
+    },
+    {
+      "institution": "Assumption University, Bangkok, Thailand",
+      "location": "Bangkok, Thailand",
+      "url": "https://www.au.edu/",
+      "area": "Computer Engineering",
+      "studyType": "B.E.",
+      "startDate": "2014-08-01",
+      "endDate": "2017-12-01",
+      "score": "3.65/4"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Clarkson NSF Regional  I-Corps",
+      "date": "2024",
+      "awarder": "Clarkson University",
+      "summary": "NSF Regional I-Corps participant."
+    },
+    {
+      "title": "IEEE-Eta Kappa Nu Honor Society",
+      "date": "2023",
+      "awarder": "IEEE-Eta Kappa Nu",
+      "summary": "Electrical and Computer Engineering Honor Society. HKN uniquely honors ECE students who have achieved substantial success academically, possess leadership qualities, and have fine character."
+    },
+    {
+      "title": "Clarkson Ignite Research Assistantship",
+      "date": "2019",
+      "awarder": "Clarkosn University",
+      "summary": "5 years research fellowship."
+    },
+    {
+      "title": "Academic Excellence Award",
+      "date": "2017",
+      "awarder": "Assumption University",
+      "summary": ""
+    },
+    {
+      "title": "Certificate of Recognition as a Committee member, of Vincent Mary School of Engineering",
+      "date": "2017",
+      "awarder": "Assumption University",
+      "summary": ""
+    },
+    {
+      "title": "Special Certificate of Honors from the President of the University",
+      "date": "2016-2017",
+      "awarder": "Assumption University",
+      "summary": ""
+    },
+    {
+      "title": "Academic Excellence Scholarship from Assumption University",
+      "date": "2014",
+      "awarder": "Assumption University",
+      "summary": "Full scholarship from Assumption University."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "2024 Advanced Guided Attacks",
+      "date": "2024-05-06",
+      "issuer": "Auto-ISAC",
+      "url": "https://badgr.com/public/assertions/SEa8oumQSRWBy4FVDGwZnw",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Certified Automotive Security Engineer (CASE)",
+      "date": "2024-05-31",
+      "issuer": "Auto-ISAC",
+      "url": "https://badgr.com/public/assertions/7PeqlA9SSx-5naONaAJHNg",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Towards Effective Machine Learning Models for Ransomware Detection via Low-Level Hardware Information",
+      "publisher": "HASP '24: Proceedings of the International Workshop on Hardware and Architectural Support for Security and Privacy 2024",
+      "releaseDate": "2024-11-02",
+      "url": "https://doi.org/10.1145/3696843.3696847",
+      "summary": ""
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "A Comparison of One-class and Two-class Models for Ransomware Detection via Low-level Hardware Information",
+      "publisher": "2023 Asian Hardware Oriented Security and Trust Symposium (AsianHOST)",
+      "releaseDate": "2023-12-13",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10409333/",
+      "summary": ""
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Hard-lite: A lightweight hardware anomaly realtime detection framework targeting ransomware",
+      "publisher": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+      "releaseDate": "2023-08-04",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10208245/",
+      "summary": ""
+    },
+    {
+      "name": "Hard-lite: A lightweight hardware anomaly realtime detection framework targeting ransomware",
+      "publisher": "2022 Asian Hardware Oriented Security and Trust Symposium (AsianHOST)",
+      "releaseDate": "2022-12-14",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10022111",
+      "summary": ""
+    },
+    {
+      "name": "High frequency performance monitoring via architectural event measurement",
+      "publisher": "2020 IEEE international symposium on workload characterization (IISWC)",
+      "releaseDate": "2020-10-27",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9251266",
+      "summary": ""
+    },
+    {
+      "name": "Speech recognition gateway for home automation on open platform",
+      "publisher": "2018 International Conference on Electronics, Information, and Communication (ICEIC)",
+      "releaseDate": "2018-01-24",
+      "url": "https://ieeexplore.ieee.org/abstract/document/8330715",
+      "summary": ""
+    },
+    {
+      "name": "An anomaly detection framework targeting ransomware using low-level hardware information",
+      "publisher": "US Patent",
+      "releaseDate": "2024-06-13",
+      "url": "https://patents.google.com/patent/US20240193271A1/en",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Cybersecurity",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Malware Analysis",
+        "Threat Modelling",
+        "Risk Assessment",
+        "Network Segmentation"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "C",
+        "C++",
+        "Python",
+        "Node.js",
+        "Bash",
+        "Assembly",
+        "HTML",
+        "PHP",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Time Series Analysis",
+        "Anomaly Detection",
+        "Forecasting",
+        "Image Pattern Recognition",
+        "NLP Modeling"
+      ]
+    },
+    {
+      "name": "System Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Linux Kernel Module Development",
+        "Kernel Programming",
+        "Memory Management"
+      ]
+    },
+    {
+      "name": "Networking",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "TCP/IP",
+        "Firewalls",
+        "Virtualization",
+        "Network Traffic Analysis",
+        "Cloud computing",
+        "Wireshark"
+      ]
+    },
+    {
+      "name": "System Administration",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Cluster Management",
+        "Access Control",
+        "Network Setup",
+        "Database Management",
+        "IT Support"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Thai",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -163,38 +338,77 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Cybersecurity",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Malware Detection",
+        "Anomaly Detection",
+        "Malware Analysis",
+        "IDS"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Time Series Analysis",
+        "Deep Learning",
+        "Artificial Intellegence",
+        "Facial Recognition"
+      ]
+    },
+    {
+      "name": "IoT",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Smart Home System",
+        "Surveillance System"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Dr. Chen Liu",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Academic Advisor"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Dr. Pasd Putthapipat",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Academic Advisor"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Scalable Machine Learning Model for Threat Detection",
+      "summary": "Optimization of Machine Learning Model for Malware Detection.",
+      "highlights": ["Malware Detection", "Performance Counter", "Deep Learning", "Gradient Boosting", "Optimization"],
+      "startDate": "2024",
+      "endDate": "2025",
+      "url": "https://github.com/chutitepw/HPC_Ransomware_Detection"
+    },{
+      "name": "HARD-Lite: A Lightweight Hardware Anomaly Realtime Detection Framework Targeting Ransomware",
+      "summary": "Real-time malware detection framework trhat utilize low-level hardware information to detect ransomware attacks.",
+      "highlights": ["Anomaly Detection", "Performance Counter", "Deep Learning"],
+      "startDate": "2022",
+      "endDate": "2023",
+      "url": "https://github.com/chutitepw/HARD-Lite"
+    },
+    {
+      "name": "K-LEB: Kernel - Lineage of Event Behavior",
+      "summary": "Optimization of Linux Kernel Data Probing Techniques for Efficient Hardware-Level Data Collection.",
+      "highlights": ["Kernel Module", "Performance Counter", "Profiling"],
+      "startDate": "2019",
+      "endDate": "2020",
+      "url": "https://github.com/chutitepw/K-LEB"
+    },
+    {
+      "name": "Speech Recognition Gateway for Home Automation",
+      "summary": "Speech recognition framework desing for smart home system.",
+      "highlights": ["IoT", "Smart Home System", "Speech Recognition", "NLP"],
+      "startDate": "2017",
+      "endDate": "2018",
+      "url": "https://github.com/chutitepw/Speech-Recognition-Gateway-for-Home-Automation"
     }
   ]
 }
